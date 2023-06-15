@@ -20,10 +20,4 @@ How the script works:
 4. GSpread will check for the next vacant row and populate the row will the extracted information from the job posting.
 
 Libraries used:
-Selenium
-Pyautogui
-Datetime
-Time
-Os
-Gspread
-Pyperclip
+Selenium, GSpread, Datetime, Time, Pyautogui, OS, Pyperclip
