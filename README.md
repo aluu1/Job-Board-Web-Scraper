@@ -9,7 +9,7 @@ What this script does:
 
 How to use:
 1. Find any job on Indeed or Glassdoor
-2. Open view the job (Indeed URL should be 'https://www.indeed.com/viewjob...', Glassdoor URL should be 'https://www.glassdoor.com/job-listing/...')
+2. Open the job to full view (Indeed URL should be 'https://www.indeed.com/viewjob...', Glassdoor URL should be 'https://www.glassdoor.com/job-listing/...')
 3. Move the job posting browser window on the left side of the main monitor.
 4. Run the script and wait about 10 seconds.
 
